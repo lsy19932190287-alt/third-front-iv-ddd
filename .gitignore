@@ -7,30 +7,13 @@
 aris.exe
 
 # ===========================================
-# LaTeX 编译中间产物
+# 运行历史日志（与 LaTeX 编译产物无关）
+#   - data_pipeline/logs/  Stata / Python 跑批日志
+#   - paper/logs/         xelatex 多次尝试日志
+#   paper/main.* 的 .aux/.log/.fdb_latexmk 等才是 LaTeX 编译产物
 # ===========================================
-*.aux
-*.bbl
-*.bcf
-*.fdb_latexmk
-*.fls
-*.log
-*.out
-*.synctex.gz
-*.toc
-*.run.xml
-*.xdv
-*.nav
-*.snm
-*.vrb
-
-# paper/ 下的 main.pdf 也不传（重新 xelatex 即可）
-paper/main.pdf
-
-# ===========================================
-# Stata 中间数据（可由 CSV/JSON 重新生成）
-# ===========================================
-*.dta
+data_pipeline/logs/
+paper/logs/
 
 # ===========================================
 # Python 中间产物
@@ -62,3 +45,8 @@ ehthumbs.db
 *.tmp
 *.orig
 nul
+
+# 注意：以下文件本仓库都纳入版本控制
+#   - *.dta (Stata 中间数据)
+#   - *.aux / *.log / *.synctex.gz / *.fdb_latexmk 等 (LaTeX 编译产物)
+#   - paper/main.pdf (最终 PDF)

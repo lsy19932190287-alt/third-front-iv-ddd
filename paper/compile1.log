@@ -1,0 +1,507 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12 Portable) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(F:\LaTeX\texmfs\install\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(F:\LaTeX\texmfs\install\tex/latex/base\size11.clo))
+(F:\LaTeX\texmfs\install\tex/latex/ctex\ctex.sty
+
+LaTeX Warning: You have requested release `2026/06/01' of LaTeX,
+               but only release `2025-11-01' is available.
+
+(F:\LaTeX\texmfs\install\tex/latex/l3kernel\expl3.sty
+(F:\LaTeX\texmfs\install\tex/latex/l3backend\l3backend-xetex.def))
+(F:\LaTeX\texmfs\install\tex/latex/ctex\ctexhook.sty
+
+LaTeX Warning: You have requested release `2026/06/01' of LaTeX,
+               but only release `2025-11-01' is available.
+
+) (F:\LaTeX\texmfs\install\tex/latex/ctex\ctexpatch.sty
+
+LaTeX Warning: You have requested release `2026/06/01' of LaTeX,
+               but only release `2025-11-01' is available.
+
+) (F:\LaTeX\texmfs\install\tex/latex/base\fix-cm.sty
+(F:\LaTeX\texmfs\install\tex/latex/base\ts1enc.def))
+(F:\LaTeX\texmfs\install\tex/latex/ctex/config\ctexopts.cfg)
+(F:\LaTeX\texmfs\install\tex/latex/ctex/engine\ctex-engine-xetex.def
+(F:\LaTeX\texmfs\install\tex/xelatex/xecjk\xeCJK.sty
+
+LaTeX Warning: You have requested release `2026/06/01' of LaTeX,
+               but only release `2025-11-01' is available.
+
+(F:\LaTeX\texmfs\install\tex/latex/l3packages/xtemplate\xtemplate.sty)
+(F:\LaTeX\texmfs\install\tex/latex/fontspec\fontspec.sty
+(F:\LaTeX\texmfs\install\tex/latex/l3packages/xparse\xparse.sty)
+(F:\LaTeX\texmfs\install\tex/latex/fontspec\fontspec-xetex.sty
+(F:\LaTeX\texmfs\install\tex/latex/base\fontenc.sty)
+(F:\LaTeX\texmfs\install\tex/latex/fontspec\fontspec.cfg)))
+(F:\LaTeX\texmfs\install\tex/xelatex/xecjk\xeCJK.cfg)))
+(F:\LaTeX\texmfs\install\tex/latex/zhnumber\zhnumber.sty
+(F:\LaTeX\texmfs\install\tex/latex/zhnumber\zhnumber-utf8.cfg))
+(F:\LaTeX\texmfs\install\tex/latex/ctex/scheme\ctex-scheme-chinese.def
+(F:\LaTeX\texmfs\install\tex/latex/ctex/config\ctex-name-utf8.cfg))
+(F:\LaTeX\texmfs\install\tex/latex/tools\indentfirst.sty)
+(F:\LaTeX\texmfs\install\tex/latex/ctex/fontset\ctex-fontset-windows.def))
+(F:\LaTeX\texmfs\install\tex/latex/ctex/config\ctex.cfg)
+(F:\LaTeX\texmfs\install\tex/latex/geometry\geometry.sty
+(F:\LaTeX\texmfs\install\tex/latex/graphics\keyval.sty)
+(F:\LaTeX\texmfs\install\tex/generic/iftex\ifvtex.sty
+(F:\LaTeX\texmfs\install\tex/generic/iftex\iftex.sty))
+(F:\LaTeX\texmfs\install\tex/latex/geometry\geometry.cfg))
+(F:\LaTeX\texmfs\install\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(F:\LaTeX\texmfs\install\tex/latex/amsmath\amstext.sty
+(F:\LaTeX\texmfs\install\tex/latex/amsmath\amsgen.sty))
+(F:\LaTeX\texmfs\install\tex/latex/amsmath\amsbsy.sty)
+(F:\LaTeX\texmfs\install\tex/latex/amsmath\amsopn.sty))
+(F:\LaTeX\texmfs\install\tex/latex/amsfonts\amssymb.sty
+(F:\LaTeX\texmfs\install\tex/latex/amsfonts\amsfonts.sty))
+(F:\LaTeX\texmfs\install\tex/latex/amscls\amsthm.sty)
+(F:\LaTeX\texmfs\install\tex/latex/booktabs\booktabs.sty)
+(F:\LaTeX\texmfs\install\tex/latex/graphics\graphicx.sty
+(F:\LaTeX\texmfs\install\tex/latex/graphics\graphics.sty
+(F:\LaTeX\texmfs\install\tex/latex/graphics\trig.sty)
+(F:\LaTeX\texmfs\install\tex/latex/graphics-cfg\graphics.cfg)
+(F:\LaTeX\texmfs\install\tex/latex/graphics-def\xetex.def)))
+(F:\LaTeX\texmfs\install\tex/latex/caption\caption.sty
+(F:\LaTeX\texmfs\install\tex/latex/caption\caption3.sty))
+(F:\LaTeX\texmfs\install\tex/latex/caption\subcaption.sty)
+(F:\LaTeX\texmfs\install\tex/latex/multirow\multirow.sty)
+(F:\LaTeX\texmfs\install\tex/latex/tools\array.sty)
+(F:\LaTeX\texmfs\install\tex/latex/tools\longtable.sty)
+(F:\LaTeX\texmfs\install\tex/latex/hyperref\hyperref.sty
+(F:\LaTeX\texmfs\install\tex/latex/kvsetkeys\kvsetkeys.sty)
+(F:\LaTeX\texmfs\install\tex/generic/kvdefinekeys\kvdefinekeys.sty)
+(F:\LaTeX\texmfs\install\tex/generic/pdfescape\pdfescape.sty
+(F:\LaTeX\texmfs\install\tex/generic/ltxcmds\ltxcmds.sty)
+(F:\LaTeX\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
+(F:\LaTeX\texmfs\install\tex/generic/infwarerr\infwarerr.sty)))
+(F:\LaTeX\texmfs\install\tex/latex/hycolor\hycolor.sty)
+(F:\LaTeX\texmfs\install\tex/latex/hyperref\nameref.sty
+(F:\LaTeX\texmfs\install\tex/latex/refcount\refcount.sty)
+(F:\LaTeX\texmfs\install\tex/generic/gettitlestring\gettitlestring.sty
+(F:\LaTeX\texmfs\install\tex/latex/kvoptions\kvoptions.sty)))
+(F:\LaTeX\texmfs\install\tex/latex/etoolbox\etoolbox.sty)
+(F:\LaTeX\texmfs\install\tex/generic/stringenc\stringenc.sty)
+(F:\LaTeX\texmfs\install\tex/latex/hyperref\pd1enc.def)
+(F:\LaTeX\texmfs\install\tex/generic/intcalc\intcalc.sty)
+(F:\LaTeX\texmfs\install\tex/latex/hyperref\puenc.def)
+(F:\LaTeX\texmfs\install\tex/latex/url\url.sty)
+(F:\LaTeX\texmfs\install\tex/generic/bitset\bitset.sty
+(F:\LaTeX\texmfs\install\tex/generic/bigintcalc\bigintcalc.sty)))
+(F:\LaTeX\texmfs\install\tex/latex/hyperref\hxetex.def
+(F:\LaTeX\texmfs\install\tex/latex/rerunfilecheck\rerunfilecheck.sty
+(F:\LaTeX\texmfs\install\tex/generic/uniquecounter\uniquecounter.sty)))
+(F:\LaTeX\texmfs\install\tex/latex/natbib\natbib.sty)
+(F:\LaTeX\texmfs\install\tex/latex/setspace\setspace.sty)
+(F:\LaTeX\texmfs\install\tex/latex/xcolor\xcolor.sty
+(F:\LaTeX\texmfs\install\tex/latex/graphics-cfg\color.cfg)
+(F:\LaTeX\texmfs\install\tex/latex/graphics\mathcolor.ltx))
+(F:\LaTeX\texmfs\install\tex/latex/enumitem\enumitem.sty)
+(F:\LaTeX\texmfs\install\tex/latex/float\float.sty)
+(F:\LaTeX\texmfs\install\tex/latex/bookmark\bookmark.sty
+(F:\LaTeX\texmfs\install\tex/latex/bookmark\bkm-xetex.def)) (main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(F:\LaTeX\texmfs\install\tex/latex/caption\ltcaption.sty)
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(F:\LaTeX\texmfs\install\tex/latex/amsfonts\umsa.fd)
+(F:\LaTeX\texmfs\install\tex/latex/amsfonts\umsb.fd)
+No file main.toc.
+[1] (F:/涓夌嚎寤鸿/paper/sec01_intro.tex
+
+Package natbib Warning: Citation `FanZou2021' on page 2 undefined on input line
+ 7.
+
+
+Package natbib Warning: Citation `hsieh2009' on page 2 undefined on input line 
+9.
+
+
+Package natbib Warning: Citation `brandt2013' on page 2 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `li2017' on page 2 undefined on input line 9.
+
+
+Package natbib Warning: Citation `鐧介噸鎭?016' on page 2 undefined on input line 9.
+
+
+
+Package natbib Warning: Citation `鑱傝緣鍗?016' on page 2 undefined on input line 9.
+
+
+
+Package natbib Warning: Citation `marshall1920' on page 2 undefined on input li
+ne 9.
+
+
+Package natbib Warning: Citation `krugman1991' on page 2 undefined on input lin
+e 9.
+
+
+Package natbib Warning: Citation `combes2000' on page 2 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `Combes2010' on page 2 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `marcon2003' on page 2 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `FanZou2021' on page 2 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `闄嗛摥2016' on page 2 undefined on input line 9.
+
+
+Package natbib Warning: Citation `寰愮幇绁?017' on page 2 undefined on input line 9.
+
+
+
+Package natbib Warning: Citation `鍒樺啿2020' on page 2 undefined on input line 9.
+
+
+Package natbib Warning: Citation `bresnahan1995' on page 2 undefined on input l
+ine 11.
+
+
+Package natbib Warning: Citation `helpman1998' on page 2 undefined on input lin
+e 11.
+
+[2]
+
+Package natbib Warning: Citation `FanZou2021' on page 3 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `寰愮幇绁?017' on page 3 undefined on input line 13
+.
+
+
+Package natbib Warning: Citation `鍒樺啿2020' on page 3 undefined on input line 13.
+
+
+
+Package natbib Warning: Citation `hausmann2003' on page 3 undefined on input li
+ne 13.
+
+
+Package natbib Warning: Citation `hidalgo2009' on page 3 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `chen2024' on page 3 undefined on input line 1
+3.
+
+
+LaTeX Warning: Reference `sec:bg' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Reference `sec:strategy' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Reference `sec:main' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Reference `sec:robust' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Reference `sec:conclusion' on page 3 undefined on input line 15.
+
+
+
+LaTeX Warning: Reference `sec:conclusion' on page 3 undefined on input line 15.
+
+
+) (F:/涓夌嚎寤鸿/paper/sec02_background.tex
+
+Package natbib Warning: Citation `闄堜笢鏋?003' on page 3 undefined on input line 9.
+
+
+
+Package natbib Warning: Citation `钁ｅ織鍑?003' on page 3 undefined on input line 9.
+
+
+[3]
+
+Package natbib Warning: Citation `klepper1996' on page 4 undefined on input lin
+e 23.
+
+
+Package natbib Warning: Citation `hsu2016' on page 4 undefined on input line 23
+.
+
+[4]
+
+Package natbib Warning: Citation `bresnahan1995' on page 5 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `helpman1998' on page 5 undefined on input lin
+e 35.
+
+
+Package natbib Warning: Citation `house2020' on page 5 undefined on input line 
+39.
+
+
+Package natbib Warning: Citation `鍒樼憺鏄?015' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `combes2012' on page 5 undefined on input line
+ 39.
+
+
+Package natbib Warning: Citation `rosenthal2003' on page 5 undefined on input l
+ine 39.
+
+
+Package natbib Warning: Citation `bauducco2020' on page 5 undefined on input li
+ne 39.
+
+
+Package natbib Warning: Citation `klepper1996' on page 5 undefined on input lin
+e 39.
+
+
+Package natbib Warning: Citation `hsu2016' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `鐧介噸鎭?016' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `鑱傝緣鍗?016' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `鍒樼憺鏄?015' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `闄嗛摥2016' on page 5 undefined on input line 39.
+
+
+
+Package natbib Warning: Citation `寰愮幇绁?017' on page 5 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `鍒樺啿2020' on page 5 undefined on input line 39.
+
+
+[5]) (F:/涓夌嚎寤鸿/paper/sec03_empirical_strategy.tex
+Overfull \hbox (31.92126pt too wide) in paragraph at lines 10--11
+[]\TU/SimSun(0)/m/n/10.95 鏈?鏂?鐮?绌?璁?璁?鐨?鏍?蹇?鏄?\TU/SimSun(0)/b/n/10.95 鍘縗TU/lmr/
+bx/n/10.95 -\TU/SimSun(0)/b/n/10.95 琛?涓歕TU/lmr/bx/n/10.95 -\TU/SimSun(0)/b/n/10
+.95 骞?\TU/SimSun(0)/m/n/10.95 涓?缁?闈?鏉?涓?鐨?涓?閲?宸?鍒?\TU/lmr/m/n/10.95 (Difference
+-in-Differences-in-Differences,
+
+Package natbib Warning: Citation `chen2024' on page 6 undefined on input line 1
+8.
+
+
+Package natbib Warning: Citation `chen2024' on page 6 undefined on input line 2
+1.
+
+[6]
+
+Package natbib Warning: Citation `silva2006' on page 7 undefined on input line 
+23.
+
+
+Overfull \hbox (3.11125pt too wide) in paragraph at lines 23--24
+[]\TU/SimSun(0)/b/n/10.95 楂?缁?娉?鏉?浼?璁?閲?\TU/lmr/bx/n/10.95 (Panel C, PPML-HDFE)
+\TU/SimSun(0)/m/n/10.95 锛殀  琚?瑙?閲?鍙?閲?鐩?鎺?鍙?$\OML/cmm/m/it/10.95 Y$\TU/SimSun(0
+)/m/n/10.95 锛寍  鐢?\TU/lmr/m/n/10.95 Correia, Guimar茫es,
+
+LaTeX Warning: Reference `sec:main' on page 7 undefined on input line 26.
+
+[7]
+
+LaTeX Warning: Reference `sec:strategy:simu' on page 8 undefined on input line 
+56.
+
+
+Package natbib Warning: Citation `rothenberg2009' on page 8 undefined on input 
+line 60.
+
+
+Package natbib Warning: Citation `闄堜笢鏋?003' on page 8 undefined on input line 66
+.
+
+
+Package natbib Warning: Citation `钁ｅ織鍑?003' on page 8 undefined on input line 66
+.
+
+
+Overfull \hbox (45.26183pt too wide) in paragraph at lines 66--67
+\TU/lmr/m/n/10.95 3264/3265/3266/3267/3268/3269/3270/3271/061 \TU/SimSun(0)/m/n
+/10.95 鎬?閮ㄣ€亅  涓?鏈?閮?\TU/lmr/m/n/10.95 011 \TU/SimSun(0)/m/n/10.95 鍩?鍦?\TU/lmr/m
+/n/10.95 113/134/137/144/153/315/5719\TU/SimSun(0)/m/n/10.95 銆亅
+
+Overfull \hbox (72.3908pt too wide) in paragraph at lines 66--67
+\TU/SimSun(0)/m/n/10.95 鍥?鏈?閮?\TU/lmr/m/n/10.95 083 \TU/SimSun(0)/m/n/10.95 鍩?鍦?
+ \TU/lmr/m/n/10.95 114/153/163/164/165/166/167/168/3535\TU/SimSun(0)/m/n/10.95 
+銆亅  浜?鏈?閮?\TU/lmr/m/n/10.95 154/173-176/188/212/310/314/316/317/318
+[8]
+Missing character: There is no 鈭?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 鈭?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 鈭?in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Warning: Reference `sec:strategy:simu' on page 9 undefined on input line 
+76.
+
+[9]
+
+LaTeX Warning: Reference `tab:mc_sim_v4' on page 10 undefined on input line 86.
+
+
+(F:/涓夌嚎寤鸿/sim/tables/mc_sim_table_v4.tex
+Missing character: There is no 鏍?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 蹇?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 浼?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 璁?in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 閲?in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (413.29335pt too wide) in paragraph at lines 6--27
+ [][] 
+)
+
+LaTeX Warning: Reference `sec:main' on page 10 undefined on input line 90.
+
+
+Overfull \hbox (3.36588pt too wide) in paragraph at lines 90--91
+[]\TU/SimSun(0)/b/n/10.95 浠?浠?鐪?鍒?鐪?瀹?鏁?鎹?鐨刓TU/lmr/bx/n/10.95 鈥?\TU/SimSun(0)/b
+/n/10.95 妗?姊乗TU/lmr/bx/n/10.95 鈥漒TU/SimSun(0)/m/n/10.95 锛殀  鍊?寰?娉?鎰?鐨?鏄紝|  浠?鐪?
+涓?鐨?鐪?瀹?鏁?鎹?鐢?鎴?鍙?鏁?\TU/lmr/m/n/10.95 ($\OML/cmm/m/it/10.95 ^^L[] \OT1/cmr/m/n/
+10.95 = 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 255\OML/cmm/m/it/10.95 ; ^^Z[]
+ \OT1/cmr/m/n/10.95 =
+[10] [11]) (F:/涓夌嚎寤鸿/paper/sec04_results.tex
+
+LaTeX Warning: Reference `tab:descstats' on page 12 undefined on input line 9.
+
+(F:/涓夌嚎寤鸿/paper/tables/tab1_descstats.tex)
+
+LaTeX Warning: Reference `tab:main' on page 12 undefined on input line 19.
+
+
+Package natbib Warning: Citation `silva2022' on page 12 undefined on input line
+ 28.
+
+[12] (F:/涓夌嚎寤鸿/paper/tables/tab2_main.tex
+Overfull \hbox (542.1049pt too wide) in paragraph at lines 6--18
+ [][] 
+)
+
+Package natbib Warning: Citation `FanZou2021' on page 13 undefined on input lin
+e 43.
+
+
+LaTeX Warning: Reference `tab:h2' on page 13 undefined on input line 50.
+
+(F:/涓夌嚎寤鸿/paper/tables/tab3_h2.tex)
+
+Package natbib Warning: Citation `闄堜笢鏋?003' on page 13 undefined on input line 6
+1.
+
+
+LaTeX Warning: Reference `tab:h3' on page 13 undefined on input line 67.
+
+(F:/涓夌嚎寤鸿/paper/tables/tab4_h3.tex
+
+Package natbib Warning: Citation `bresnahan1995' on page 13 undefined on input 
+line 21.
+
+[13])
+
+Package natbib Warning: Citation `bresnahan1995' on page 14 undefined on input 
+line 76.
+
+
+LaTeX Warning: Reference `fig:eventstudy' on page 14 undefined on input line 82
+.
+
+
+LaTeX Warning: Reference `sec:strategy:simu' on page 14 undefined on input line
+ 86.
+
+[14]
+
+LaTeX Warning: Reference `sec:robust' on page 15 undefined on input line 113.
+
+
+LaTeX Warning: Reference `sec:strategy' on page 15 undefined on input line 120.
+
+
+
+LaTeX Warning: Reference `sec:strategy:simu' on page 15 undefined on input line
+ 120.
+
+) (F:/涓夌嚎寤鸿/paper/sec05_robustness_conclusion.tex [15]
+
+LaTeX Warning: Reference `tab:robust' on page 16 undefined on input line 37.
+
+(F:/涓夌嚎寤鸿/paper/tables/tab5_longdiff.tex
+Overfull \hbox (38.04948pt too wide) in paragraph at lines 11--39
+ [][] 
+)
+
+LaTeX Warning: Reference `fig:eventstudy' on page 16 undefined on input line 63
+.
+
+[16] [17]
+
+LaTeX Warning: Reference `tab:robust' on page 18 undefined on input line 161.
+
+[18]
+
+Package natbib Warning: Citation `bresnahan1995' on page 19 undefined on input 
+line 233.
+
+[19] [20]) (main.bbl [21] [22])
+Overfull \hbox (178.23994pt too wide) in paragraph at lines 148--150
+\TU/SimSun(0)/m/n/10.95 鏈?闄?褰?鍒?绀?涓?闈?鏉?$[]$ 鐨?鏍?蹇?鍙?閲?鍙?鍏?瀹?涔夈€倈  瀹?鏁?鍙?閲?瀛?鍏?瑙?
+ \TU/lmtt/m/n/10.95 F:/\TU/FangSong(0)/m/n/10.95 涓?绾?寤?璁綷TU/lmtt/m/n/10.95 /dat
+a_pipeline/tables/round9_diag.json\TU/SimSun(0)/m/n/10.95 銆倈 
+[23]
+
+Package natbib Warning: Citation `bresnahan1995' on page 24 undefined on input 
+line 173.
+
+[24]
+
+Package natbib Warning: There were undefined citations.
+
+[25] (main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+miktex-dvipdfmx: major issue: So far, you have not checked for MiKTeX updates.
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)
+Output written on main.pdf (25 pages).
+Transcript written on main.log.
+xelatex: major issue: So far, you have not checked for MiKTeX updates.

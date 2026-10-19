@@ -1,0 +1,215 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bauducco et~al.(2020)Bauducco, B{\"u}chel, and Frick]{bauducco2020}
+Sofia Bauducco, Konstantin B{\"u}chel, and Hans Frick.
+\newblock Industry evolution, industry decline, and firm exit: Evidence from
+  the textiles, footwear and apparel industry.
+\newblock \emph{Journal of Economic Geography}, 20\penalty0 (4):\penalty0
+  961--993, 2020.
+
+\bibitem[Brandt et~al.(2013)Brandt, Van~Biesebroeck, and Zhang]{brandt2013}
+Loren Brandt, Johannes Van~Biesebroeck, and Yifan Zhang.
+\newblock Creative accounting or creative destruction? firm-level productivity
+  growth in chinese manufacturing.
+\newblock \emph{Journal of Development Economics}, 97\penalty0 (2):\penalty0
+  339--351, 2013.
+
+\bibitem[Bresnahan and Trajtenberg(1995)]{bresnahan1995}
+Timothy~F. Bresnahan and Manuel Trajtenberg.
+\newblock General purpose technologies: "engines of growth"?
+\newblock \emph{Journal of Econometrics}, 65\penalty0 (1):\penalty0 83--108,
+  1995.
+
+\bibitem[Chen and Roth(2024)]{chen2024}
+Jiafeng Chen and Jonathan Roth.
+\newblock Logs with zeros? the {P}oisson {MLE} is undefined and {T}he {OLS}
+  {MLE} is not a {Q}uote-unbiased estimator.
+\newblock \emph{Quarterly Journal of Economics}, 139\penalty0 (2):\penalty0
+  1179--1226, 2024.
+\newblock QJE 2024 关于零值 PPML 不可识别与 OLS
+  不一致的根本性定理.
+
+\bibitem[Combes et~al.(2010)Combes, Duranton, Gobillon, and Roux]{Combes2010}
+Pierre-Philippe Combes, Gilles Duranton, Laurent Gobillon, and S{\'e}bastien
+  Roux.
+\newblock Estimating the causal effects of urban density on labor market
+  outcomes: A spatial identification strategy.
+\newblock \emph{Journal of Urban Economics}, 67\penalty0 (1):\penalty0 3--15,
+  2010.
+
+\bibitem[Combes et~al.(2012)Combes, Duranton, and Gobillon]{combes2012}
+Pierre-Philippe Combes, Gilles Duranton, and Laurent Gobillon.
+\newblock The costs of agglomeration: Land prices in french cities.
+\newblock \emph{Review of Economic Studies}, 79\penalty0 (1):\penalty0 1--43,
+  2012.
+
+\bibitem[Combes et~al.(2020)Combes, Duranton, and Gobillon]{combes2000}
+Pierre-Philippe Combes, Gilles Duranton, and Laurent Gobillon.
+\newblock Estimating the causal effects of urban density on labor market
+  outcomes: A spatial identification strategy.
+\newblock \emph{Handbook of Regional and Urban Economics}, 5, 2020.
+
+\bibitem[Fan and Zou(2021)]{FanZou2021}
+Zhongting Fan and Ben Zou.
+\newblock Industrialization from scratch: The "third front" and local economic
+  development in china's hinterland.
+\newblock \emph{Journal of Development Economics}, 152:\penalty0 102657, 2021.
+\newblock 樊仲挺/邹奔 (2021):
+  三线建设对当地经济长期发展的因果识别.
+
+\bibitem[Hausmann et~al.(2007)Hausmann, Hwang, and Rodrik]{hausmann2003}
+Ricardo Hausmann, Jason Hwang, and Dani Rodrik.
+\newblock What you export matters.
+\newblock \emph{Journal of Economic Growth}, 12\penalty0 (1):\penalty0 1--25,
+  2007.
+
+\bibitem[Helpman(1998)]{helpman1998}
+Elhanan Helpman.
+\newblock General purpose technologies and economic growth.
+\newblock \emph{MIT Press}, 1998.
+
+\bibitem[Hidalgo and Hausmann(2009)]{hidalgo2009}
+Cesar~A. Hidalgo and Ricardo Hausmann.
+\newblock The building blocks of economic complexity.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 106\penalty0
+  (26):\penalty0 10570--10575, 2009.
+
+\bibitem[House et~al.(2020)House, Shen, and Shu]{house2020}
+Christopher House, Si~Shen, and Beichuan Shu.
+\newblock Industrial policy, vertical integration, and trade.
+\newblock \emph{Journal of Economic Theory}, 188:\penalty0 105033, 2020.
+
+\bibitem[Hsieh and Song(2009)]{hsieh2009}
+Chang-Tai Hsieh and Zheng Song.
+\newblock Grasp the large, let go of the small: The transformation of the state
+  sector in china.
+\newblock \emph{Brookings Papers on Economic Activity}, 2009\penalty0
+  (1):\penalty0 1--65, 2009.
+
+\bibitem[Hsu et~al.(2016)Hsu, Kenney, and Zane]{hsu2016}
+David~H. Hsu, Martin Kenney, and Lori~J. Zane.
+\newblock Succeeding in silicon valley: Start-up formation by former employees
+  of high-tech firms.
+\newblock \emph{Strategic Entrepreneurship Journal}, 10\penalty0 (3):\penalty0
+  237--254, 2016.
+
+\bibitem[Klepper and Simons(1996)]{klepper1996}
+Steven Klepper and Kenneth~L. Simons.
+\newblock Industry shakeouts and technology adoption: An entry/exit analysis of
+  the u.s. automobile industry.
+\newblock \emph{International Journal of Industrial Organization}, 14\penalty0
+  (4):\penalty0 531--559, 1996.
+
+\bibitem[Krugman(1991)]{krugman1991}
+Paul~R. Krugman.
+\newblock Increasing returns and economic geography.
+\newblock \emph{Journal of Political Economy}, 99\penalty0 (3):\penalty0
+  483--499, 1991.
+
+\bibitem[Li et~al.(2017)Li, Liu, and Wang]{li2017}
+Xiao Li, Xiaoqian Liu, and Yong Wang.
+\newblock Has china's state sector been reform? productivity growth in chinese
+  state-owned enterprises.
+\newblock \emph{Journal of Comparative Economics}, 45\penalty0 (4):\penalty0
+  S1--S20, 2017.
+
+\bibitem[Marcon and Puech(2003)]{marcon2003}
+Eric Marcon and Florence Puech.
+\newblock Evaluating the geographic concentration of industries using
+  distance-based methods.
+\newblock \emph{Journal of Economic Geography}, 3\penalty0 (4):\penalty0
+  409--428, 2003.
+
+\bibitem[Marshall(1920)]{marshall1920}
+Alfred Marshall.
+\newblock Principles of economics.
+\newblock \emph{Macmillan}, 1920.
+\newblock Marshall (1920)
+  集聚经济两大微观基础：知识溢出与劳动力蓄水池.
+
+\bibitem[Rosenthal and Strange(2003)]{rosenthal2003}
+Stuart~S. Rosenthal and William~C. Strange.
+\newblock Geography, industrial organization, and agglomeration.
+\newblock \emph{Review of Economics and Statistics}, 85\penalty0 (2):\penalty0
+  377--393, 2003.
+
+\bibitem[Rothenberg et~al.(2009)Rothenberg, Gaduh, Nee, Wiebe, and
+  Nee]{rothenberg2009}
+Alexander~D. Rothenberg, Arya~R. Gaduh, Victor Nee, Stephen Wiebe, and Brett
+  Nee.
+\newblock Mapping the social network of government elites in authoritarian
+  regimes: The case of suharto's indonesia.
+\newblock \emph{American Journal of Sociology}, 114\penalty0 (5):\penalty0
+  1373--1412, 2009.
+\newblock 社会网络分析在产业撤出端的应用 (方法论基础).
+
+\bibitem[Silva(2006)]{silva2006}
+J.~M. C.~Santos Silva.
+\newblock The {D}iff-in-{D}iff {E}stimator with a {D}iscrete {T}ime-{V}arying
+  {N}umber of {T}reatments.
+\newblock \emph{Journal of Econometrics}, 132\penalty0 (2):\penalty0 233--252,
+  2006.
+
+\bibitem[Silva and Tenreyro(2022)]{silva2022}
+J.~M. C.~Santos Silva and Silvana Tenreyro.
+\newblock The {L}og of {G}ravity at 15.
+\newblock \emph{Annual Review of Economics}, 14:\penalty0 365--392, 2022.
+\newblock PPML 在含零值面板的稳健性: 与 TWFE-IHS 比较.
+
+\bibitem[刘冲 et~al.(2020)刘冲, 伏霖, and 万海远]{刘冲2020}
+刘冲, 伏霖, and 万海远.
+\newblock 三线建设与西部地区经济发展:
+  基于微观地理与产业空间的因果识别.
+\newblock \emph{经济研究}, \penalty0 (4):\penalty0 143--159, 2020.
+\newblock 刘冲等 (2020) 国内三线建设进入端最新实证文献.
+
+\bibitem[刘瑞明(2015)]{刘瑞明2015}
+刘瑞明.
+\newblock 国有企业改制重组的策略性行为与地区经济绩效.
+\newblock \emph{经济研究}, \penalty0 (3):\penalty0 82--96, 2015.
+
+\bibitem[徐现祥 and 刘毓芸(2017)]{徐现祥2017}
+徐现祥 and 刘毓芸.
+\newblock 中央计划体制的退出与地方经济增长:
+  来自三线建设企业的证据.
+\newblock \emph{中国工业经济}, \penalty0 (3):\penalty0 5--22, 2017.
+\newblock 徐现祥/刘毓芸 (2017)
+  国内三线建设撤并端的开创性实证研究.
+
+\bibitem[白重恩 et~al.(2016)白重恩, 钱震杰, and 武康]{白重恩2016}
+白重恩, 钱震杰, and 武康.
+\newblock 中国工业部门国有经济比重下降的经济后果:
+  基于因果识别的实证分析.
+\newblock \emph{经济研究}, \penalty0 (5):\penalty0 4--20, 2016.
+
+\bibitem[聂辉华 et~al.(2012)聂辉华, 江艇, and 杨汝岱]{聂辉华2016}
+聂辉华, 江艇, and 杨汝岱.
+\newblock 中国工业企业数据库的使用现状和潜在问题.
+\newblock \emph{世界经济}, \penalty0 (5):\penalty0 142--158, 2012.
+
+\bibitem[董志凯(2019)]{董志凯2003}
+董志凯.
+\newblock \emph{中国三线建设 60 年}.
+\newblock 社会科学文献出版社, 北京, 2019.
+\newblock 董志凯等 (2019) 三线建设 60 年回顾,
+  中央与地方层面的资料整理.
+
+\bibitem[陆铭 and 彭冲(2016)]{陆铭2016}
+陆铭 and 彭冲.
+\newblock 中国城市和区域发展中的不平衡:
+  来自高铁通达性的证据.
+\newblock \emph{管理世界}, \penalty0 (3):\penalty0 5--17, 2016.
+
+\bibitem[陈东林(2003)]{陈东林2003}
+陈东林.
+\newblock \emph{三线建设：备战时期的西部开发}.
+\newblock 中共中央党校出版社, 北京, 2003.
+\newblock 陈东林 (2003) 三线建设通史性著作,
+  本文制度背景的史实基础.
+
+\end{thebibliography}

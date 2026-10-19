@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}引言}{4}{section.1}%
+\contentsline {section}{\numberline {2}制度背景与理论假说}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}三线建设的历史演进：从"进山"到"出山"}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}三大可检验的机制假说}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}假说 H1（主假说：创业孵化效应）}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}假说 H2（人力资本溢出渠道）}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}假说 H3（资产专用性与军转民分化渠道）}{7}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}与既有文献的关系}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}研究设计、数据与识别有效性验证}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}计量模型设定：三维 DDD + 三保险估计量}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}内生性问题与三维工具变量识别}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}历史档案与微观数据构建}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}稀疏三维面板下识别策略的蒙特卡洛仿真验证}{12}{subsection.3.4}%
+\contentsline {section}{\numberline {4}实证结果}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}描述统计}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}基准回归：三维 DDD + 三保险 + IV-DDD-2SLS}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}H2 机制检验：厂办技校 / 子弟校的人力资本溢出（全样本三重交互）}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}H3 机制检验：GPTs 行业知识可迁移性（全样本三重交互）}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}事件研究：动态 ATT 轨迹}{16}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}异质性初步观察}{17}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}小结}{17}{subsection.4.7}%
+\contentsline {section}{\numberline {5}稳健性检验}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}长差分 2SLS 估计}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}平行趋势与事件研究检验}{19}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}剥离重庆直辖市子样本}{19}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}安慰剂检验 (Placebo Test)}{19}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}排除 1990--1995 改革窗口}{19}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}替换被解释变量}{20}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}稳健性综合评估}{20}{subsection.5.7}%
+\contentsline {section}{\numberline {6}结论与政策启示}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}主要结论}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}对"大国重器战略腹地建设"的启示}{21}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}对"存量国企布局结构调整"的启示}{22}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}研究局限与展望}{22}{subsection.6.4}%
+\contentsline {section}{附录 A: 数据与变量字典}{26}{section*.11}%

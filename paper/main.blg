@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+Database file #1: F:/三线建设/paper/references.bib
+Warning--there's a number but no volume in 刘冲2020
+Warning--there's a number but no volume in 刘瑞明2015
+Warning--there's a number but no volume in 徐现祥2017
+Warning--there's a number but no volume in 白重恩2016
+Warning--there's a number but no volume in 聂辉华2016
+Warning--there's a number but no volume in 陆铭2016
+You've used 31 entries,
+            2773 wiz_defined-function locations,
+            786 strings with 10110 characters,
+and the built_in function-call counts, 13930 in all, are:
+= -- 1283
+> -- 718
+< -- 18
++ -- 244
+- -- 213
+* -- 1163
+:= -- 2147
+add.period$ -- 102
+call.type$ -- 31
+change.case$ -- 162
+chr.to.int$ -- 31
+cite$ -- 68
+duplicate$ -- 630
+empty$ -- 1186
+format.name$ -- 266
+if$ -- 2884
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 33
+newline$ -- 172
+num.names$ -- 124
+pop$ -- 282
+preamble$ -- 1
+purify$ -- 133
+quote$ -- 0
+skip$ -- 453
+stack$ -- 0
+substring$ -- 647
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 331
+warning$ -- 6
+while$ -- 143
+width$ -- 0
+write$ -- 426
+(There were 6 warnings)
