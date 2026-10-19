@@ -1,0 +1,45 @@
+main.log 共 1168 行
+
+[ERROR at line 1116]: ! Paragraph ended before \text@command was complete.
+       [1113] ) [18] [19] [20] [21] [22]
+       [1114] Runaway argument?
+       [1115] {三线企业种子数据由陈东林 (2003)《中国三线建设口述\ETC.
+   >>> [1116] ! Paragraph ended before \text@command was complete.
+       [1117] <to be read again> 
+       [1118]                    \par 
+       [1119] l.421 \textbf{基金项目}: [如有, 请补充 --- 格式: 基金名 (编号)]。}
+       [1120]                                                  
+       [1121] I suspect you've forgotten a `}', causing me to apply this
+       [1122] control sequence to too much text. How can we recover?
+       [1123] My plan is to forget the whole thing and hope for the best.
+       [1124] 
+       [1125] 
+       [1126] LaTeX Font Warning: Font shape `TU/SimSun(0)/b/it' undefined
+       [1127] (Font)              using `TU/SimSun(0)/b/n' instead on input line 421.
+       [1128] 
+       [1129] ! Extra }, or forgotten \endgroup.
+       [1130] <recently read> \egroup 
+
+[ERROR at line 1129]: ! Extra }, or forgotten \endgroup.
+       [1126] LaTeX Font Warning: Font shape `TU/SimSun(0)/b/it' undefined
+       [1127] (Font)              using `TU/SimSun(0)/b/n' instead on input line 421.
+       [1128] 
+   >>> [1129] ! Extra }, or forgotten \endgroup.
+       [1130] <recently read> \egroup 
+       [1131]                         
+       [1132] l.421 \textbf{基金项目}: [如有, 请补充 --- 格式: 基金名 (编号)]。}
+       [1133]                                                  
+       [1134] I've deleted a group-closing symbol because it seems to be
+       [1135] spurious, as in `$x}$'. But perhaps the } is legitimate and
+       [1136] you forgot something else, as in `\hbox{$x}'. In such cases
+       [1137] the way to recover is to insert both the forgotten and the
+       [1138] deleted material, e.g., by typing `I$}'.
+       [1139] 
+       [1140] ) (main.bbl [23] [24] [25])
+       [1141] Overfull \hbox (178.23994pt too wide) in paragraph at lines 148--150
+       [1142] \TU/SimSun(0)/m/n/10.95 本 附 录 列 示 主 面 板 $[]$ 的 核 心 变 量 及 其 定 义。|  完 整 变 量 字 典 见
+       [1143]  \TU/lmtt/m/n/10.95 F:/\TU/FangSong(0)/m/n/10.95 三 线 建 设\TU/lmtt/m/n/10.95 /dat
+
+--- l.XXX 错误引用 ---
+  [1119] l.421 \textbf{基金项目}: [如有, 请补充 --- 格式: 基金名 (编号)]。}
+  [1132] l.421 \textbf{基金项目}: [如有, 请补充 --- 格式: 基金名 (编号)]。}

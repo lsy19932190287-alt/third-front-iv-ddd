@@ -1,0 +1,17 @@
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if abs(prev_norm - norm) / max(prev_norm, 1e-12) < tol:
+X demean before std = 0.3035,  mean = 0.1027
+X demean after  std = 0.116913
+X demean after  abs max = 0.844511
+X demean after  ||X||^2 = 3272.30
+X demean after  ||X_dm||^2 / ||X||^2 = 0.1332
+
+Y demean before std = 4.7232
+Y demean after  std = 2.8729
+
+demean after X*Y correlation = 0.0473
+Traceback (most recent call last):
+  File "F:\三线建设\sim\sim_debug.py", line 38, in <module>
+    print(f"\nOLS β\u0302 = {beta_ols[0]:.4f}  (真实 PPML β = {TRUE_BETA_PPML:.4f})")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\u0302' in position 7: illegal multibyte sequence

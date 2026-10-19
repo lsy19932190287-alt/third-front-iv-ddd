@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{机制 H3: GPTs 行业知识可迁移性 (全样本三重交互)}
+\label{tab:h3}
+\begin{tabular}{lcc}
+\hline\hline
+变量 & 系数 & 标准误 \\
+\hline
+$\mathrm{Exit}\times\mathrm{Post}$ (主效应 $\hat{\beta}_0$) & \textbf{0.2482}$^{***}$ & (0.0308) \\
+$\mathrm{Exit}\times\mathrm{Post}\times\mathrm{is\_gpt}$ ($\hat{\beta}_{\mathrm{gpt}}$) & \textbf{0.2966}$^{**}$ & (0.1391) \\
+\hline
+【GPTs 边际效应】 $= \hat{\beta}_0 + \hat{\beta}_{\mathrm{gpt}}$ & \textbf{0.5448}$^{***}$ \\
+【非GPTs 边际效应】 $= \hat{\beta}_0$ & \textbf{0.2482}$^{***}$ \\
+\hline
+$N$ & \multicolumn{2}{c}{246,240} \\
+$D_{cjt}\times\mathrm{Post}\times\mathrm{GPT}$ 非零样本 & \multicolumn{2}{c}{384} \\
+\hline\hline
+\end{tabular}
+\begin{flushleft}\footnotesize
+\textit{Notes:} 全样本三重交互 (无子样本切分!): $y^{\sim}_{cjt}=\beta_0 \cdot D\times\mathrm{Post}+\beta_{\mathrm{gpt}}\cdot D\times\mathrm{Post}\times\mathrm{GPT}+\beta_{\mathrm{HasTF}}\cdot\mathrm{HasTF}\times\mathrm{Post}+\mathrm{FE}+\varepsilon$。\textbf{H3 验证}: 要求 $\hat{\beta}_{\mathrm{gpt}}>0$ 且显著, 即通用目的技术 (GPTs, \citet{bresnahan1995}; 41 家三线企业涉及 $\mathrm{cic2}\in\{9, 26, 32, 33, 35, 37, 40\}$) 的撤并后溢出效应, 大于资产专用性强的非 GPTs 行业 (51 家化工/冶金)。
+\end{flushleft}
+\end{table}

@@ -1,0 +1,23 @@
+F:\三线建设\sim\sim_estimators.py:60: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:60: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+======================================================================
+[SINGLE-REP SANITY CHECK]
+======================================================================
+
+真实 PPML β = 0.2550 (泊松弹性)
+
+Estimator           beta       SE    bias% 备注                       
+----------------------------------------------------------------------
+TWFE-IHS          0.2260   0.0109   13.02%
+TWFE-LPM          0.0378   0.0071  -62.22%
+PPML-HDFE         1.5695   0.0081  515.51%
+IV-DDD            8.9325   4.1387 3402.94%
+
+IV 第一阶段 F = 20.25
+Traceback (most recent call last):
+  File "F:\三线建设\sim\sim_estimators.py", line 366, in <module>
+    print(f"IV 第一阶段 R\xb2 = {res['iv_ddd']['r2_1st']:.4f}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\xb2' in position 9: illegal multibyte sequence

@@ -1,0 +1,21 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{主回归: 三维 DDD + 三保险估计量 + IV-DDD-2SLS (H1 创业孵化效应)}
+\label{tab:main}
+\begin{tabular}{lcccccccccccc}
+\hline\hline
+ & \multicolumn{2}{c}{TWFE-IHS} & TWFE-LPM & PPML & \multicolumn{2}{c}{IV-DDD-2SLS} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-4} \cmidrule(lr){5-5} \cmidrule(lr){6-7}
+ & (1) TWFE-IHS 2FE  & (2) TWFE-IHS HDFE  & (3) TWFE-LPM HDFE  & (4) PPML Poisson  & (5) IV-DDD 1IV  & (6) IV-DDD 2IV \\
+\hline
+$\mathrm{Exit}_{cj}\times\mathrm{Post}_t$ & \textbf{0.4850}$^{***}$ & (0.0737) & \textbf{0.2590}$^{***}$ & (0.0307) & -0.0206 & (0.0164) & \textbf{0.4092}$^{***}$ & (0.1206) & \textbf{0.2430}$^{**}$ & (0.1072) & \textbf{0.2470}$^{**}$ & (0.1072) \\
+一阶段 $F$ & & & & & & & & & & & 24586.11 & 7796.74 \\
+Hansen $J$ ($p$-val) & & & & & & & & & & & & 1.86 (0.173) \\
+$N$ & \multicolumn{2}{c}{246,240} & \multicolumn{2}{c}{246,240} & \multicolumn{2}{c}{246,240} & \multicolumn{2}{c}{246,240} & \multicolumn{2}{c}{246,240} & \multicolumn{2}{c}{246,240} \\
+\hline\hline
+\end{tabular}
+\begin{flushleft}\footnotesize
+\textit{Notes:} 主样本为 216 川黔县 $\times$ 30 个二位数制造业 $\times$ 38 年 ($N=246{,}240$)。被解释变量: 列 (1)--(2), (5)--(6) 为 $\mathrm{arcsinh}(Y_{cjt})$ (IHS); 列 (3) 为 $\mathbb{1}\{Y>0\}$; 列 (4) 为 $Y$ 泊松 MLE (PPML)。FE 设置: (1) 仅县 + 年; (2)--(6) HDFE 三组 \{$(c,t), (j,t), (c,j)$\}。控制变量: $\mathrm{HasTF}_{cj}\times\mathrm{Post}_t$ (Borusyak 2024 推荐的基期布局控制)。IV: $Z_{1,cj}=\mathrm{Z1\_cj}$ 海拔差 PC1, $Z_{2,cj}=\mathrm{Z2\_cj}$ 坡度 PC1 (双 IV 解耦, $\mathrm{Corr}(Z_1,Z_2|\mathrm{HasTF}=1)=0.58$, 严格满足 Hansen J over-id 检验)。SE: 列 (1)--(4) HC1; 列 (5)--(6) c$\times$j 聚类稳健 SE。$^{*}$, $^{**}$, $^{***}$ 分别表示 10\%, 5\%, 1\% 显著性。
+\end{flushleft}
+\end{table}

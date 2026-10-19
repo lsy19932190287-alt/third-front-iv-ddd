@@ -1,0 +1,61 @@
+======================================================================
+§B-1 Data Cleaning Pipeline — 三线建设 Exit-DID
+======================================================================
+======================================================================
+Step 0: Data Source Catalog
+======================================================================
+
+    [输入数据源]
+    
+    1. 工商注册库 (主数据源)
+       路径: data_raw/business_registry_{province}.csv
+       关键字段:
+         - 统一社会信用代码 (uscc) → 唯一企业标识
+         - 成立日期 (est_date) → 计算成立年份 est_year
+         - 行业代码 (ind_code) → 二位数行业 ind_j
+         - 注册地邮编 (reg_zip) → 县 reg_county
+         - 注册资本 (reg_capital) → 对数化 lreg_cap
+         - 企业状态 (status) → 筛 active=1
+    
+    2. 三线建设企业名单 (处理变量源)
+       路径: data_raw/third_front_master_list.csv
+       关键字段:
+         - 企业名称 (firm_name) → 用模糊匹配关联到工商库
+         - 行业 (ind_code)
+         - 县 (county_code)
+         - 三线期状态 (tf_status): 一类保留/二类搬迁/三类关停
+    
+    3. 县-年份行政代码 (地理匹配)
+       路径: data_raw/county_year_panel.csv
+       关键字段: county_code, county_name, province_id
+    
+    4. 微观地形数据 (IV 来源)
+       路径: data_raw/topography/elevation_pc1.tif (海拔主成分, 30m 分辨率)
+       路径: data_raw/topography/slope_pc1.tif (坡度主成分)
+       路径: data_raw/rails/{year}_national_railway.shp (国铁站点, 矢量)
+    
+    [关键变量构造公式]
+    
+    D_cj = 1(1980 年前县 c 在行业 j 至少有一家三线企业, 且在 1985 年未关停)
+    
+    Y_{cjt} = 在县 c 行业 j 第 t 年新增注册民营企业数 (Flow)
+    
+    Z_{cj} = PC1(
+        mean(slope of plant_terrain within county c, plant in industry j),
+        std(elevation within county c, plant in industry j),
+        max(slope_to_nearest_rail_station within county c)
+    )
+    
+
+>>> Pipeline Status:
+    Step 0: ✓ Documentation complete
+    Step 1-5: ⏳ Awaiting raw data ingestion
+    Step 6: ⏳ Final descriptive stats after data loading
+
+[注] 当原始工商库、三线名单、地形数据到位后, 跑以下命令:
+    df = step1_clean_registry('data_raw/business_registry_SC.csv')
+    panel = step2_aggregate_panel(df)
+    panel = step3_build_D_cj(panel, 'data_raw/third_front_master_list.csv')
+    panel = step4_build_Z_cj(panel)
+    panel = step5_build_controls(panel)
+    step6_descriptive_stats(panel)

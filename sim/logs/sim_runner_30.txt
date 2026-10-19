@@ -1,0 +1,144 @@
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+======================================================================
+Monte Carlo Simulation â€” ä¸‰çº¿å»ºè®¾ Exit-DID
+  Reps: 30  Base seed: 20261018
+  True PPML Î² = 0.255
+======================================================================
+  [10/30] elapsed: 36.7s (ETA: 73s)
+  [20/30] elapsed: 69.0s (ETA: 35s)
+  [30/30] elapsed: 100.9s (ETA: 0s)
+
+Total time: 100.9s (3.36s/rep)
+
+======================================================================
+SIMULATION METRICS
+======================================================================
+Estimator              beta_bar     Bias     RMSE    Power      Cov      n
+----------------------------------------------------------------------
+twfe_ihs_hdfe            0.2331  +0.0071   0.0128    1.000    0.867     30
+twfe_ihs_panel           0.2357  +0.0157   0.0216    1.000    0.833     30
+twfe_lpm_hdfe            0.0402  +0.0024   0.0075    1.000    0.900     30
+twfe_lpm_panel           0.0409  +0.0039   0.0055    1.000    0.767     30
+ppml_naive               0.3820  -0.0030   0.0326    1.000    0.200     30
+
+âœ“ Results saved to tables\mc_sim_results.json
+âœ“ LaTeX table saved to tables\mc_sim_table.tex

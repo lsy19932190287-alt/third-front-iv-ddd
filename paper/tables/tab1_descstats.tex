@@ -1,0 +1,26 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{描述统计: 主样本 ($N=246{,}240$)}
+\label{tab:descstats}
+\begin{tabular}{lccccc}
+\hline\hline
+变量 & $N$ & mean & std & min & max \\
+\hline
+Y (IHS) & 246,240 & 1.7168 & 1.2761 & 0.0000 & 6.8957 \\
+Y count & 246,240 & 6.6373 & 15.0579 & 0.0000 & 494.0000 \\
+D×Post & 246,240 & 0.0431 & 0.2032 & 0.0000 & 1.0000 \\
+HasTF & 246,240 & 0.1088 & 0.3114 & 0.0000 & 1.0000 \\
+HasTF×Post & 246,240 & 0.0916 & 0.2885 & 0.0000 & 1.0000 \\
+D×Post×Tech & 246,240 & 0.0017 & 0.0411 & 0.0000 & 1.0000 \\
+D×Post×GPT & 246,240 & 0.0016 & 0.0395 & 0.0000 & 1.0000 \\
+Z1×Post & 246,240 & -0.0005 & 0.3061 & -2.1918 & 2.1084 \\
+Z2×Post & 246,240 & -0.0004 & 0.2976 & -2.6040 & 2.4571 \\
+Tech dummy & 246,240 & 0.0046 & 0.0679 & 0.0000 & 1.0000 \\
+GPT dummy & 246,240 & 0.0035 & 0.0595 & 0.0000 & 1.0000 \\
+\hline\hline
+\end{tabular}
+\begin{flushleft}\footnotesize
+\textit{Notes:} 主样本为 216 川黔县 × 30 个二位数制造业 × 38 年 (1980--2017) 的三维面板, $N=246{,}240$。$Y$ 为非国有制造业企业新登记数 ($Y\in\mathbb{Z}_{+}$)。$D_{cj}=\mathrm{Exit}_{cj}$, $\mathrm{Post}_t=\mathbb{1}\{t\geq 1986\}$。Tech (GPT) 为 $\mathrm{has\_tech\_school\_cj}$ ($\mathrm{is\_gpt\_sector\_cj}$) 虚拟变量, 仅在 92 家真实三线企业对应的 $(c,j)$ 格子中取值 1。$Z_1, Z_2$ 分别为海拔差、坡度两类排他性工具变量。
+\end{flushleft}
+\end{table}

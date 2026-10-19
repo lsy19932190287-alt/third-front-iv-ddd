@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Monte Carlo Simulation Results (川黔两省, $C=210 \times J=30 \times T=38$, $\beta_{\text{PPML}}=0.255$)}
+\label{tab:mc_sim}
+\begin{tabular}{lccccc}
+\toprule
+Estimator & Mean $\hat\beta$ & Bias & RMSE & Power & Coverage \\
+\midrule
+\multicolumn{6}{l}{\textit{Panel A: TWFE on $\operatorname{arcsinh}(Y)$ (Chen \& Roth 2024 QJE 三保险之 I)}} \\
+twfe ihs hdfe & 0.2331 & +0.0071 & 0.0128 & 1.000 & 0.867 \\
+twfe ihs panel & 0.2357 & +0.0157 & 0.0216 & 1.000 & 0.833 \\
+\multicolumn{6}{l}{\textit{Panel B: TWFE on $\mathbb{1}(Y>0)$ (线性概率模型, 广延边际)}} \\
+twfe lpm hdfe & 0.0402 & +0.0024 & 0.0075 & 1.000 & 0.900 \\
+twfe lpm panel & 0.0409 & +0.0039 & 0.0055 & 1.000 & 0.767 \\
+\multicolumn{6}{l}{\textit{Panel C: PPML naive (statsmodels GLM Poisson, 无 HDFE)}} \\
+ppml naive & 0.3820 & -0.0030 & 0.0326 & 1.000 & 0.200 \\
+\bottomrule
+\end{tabular}
+\begin{flushleft}\small
+\textit{Notes:} $N_{\text{rep}}=100$. TWFE-IHS 真值 $\beta_{IHS}\approx 0.22$ (IHS 量纲下的处理效应); TWFE-LPM 真值约 $3.7\%$ (概率变化); PPML-naive 无 HDFE 控制故有混淆偏误。完整 PPML-HDFE 需 Stata \texttt{reghdfe, ppml} 实现。\\\textbf{PPML-HDFE} 与 \textbf{IV-DDD-HDFE} 的 Python 实现在 demean 后识别变异极小时数值不稳定, 标记为 Stata 验证.
+\end{flushleft}
+\end{table}

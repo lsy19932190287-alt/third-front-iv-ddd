@@ -1,0 +1,48 @@
+F:\���߽���\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if abs(prev_norm - norm) / max(prev_norm, 1e-12) < tol:
+X demean before std = 0.3035,  mean = 0.1027
+X demean after  std = 0.116913
+X demean after  abs max = 0.844511
+X demean after  ||X||^2 = 3272.30
+X demean after  ||X_dm||^2 / ||X||^2 = 0.1332
+
+Y demean before std = 4.7232
+Y demean after  std = 2.8729
+
+demean after X*Y correlation = 0.0473
+
+OLS β̂ = 1.1615  (真实 PPML β = 0.2550)
+
+=== PPML Verbose ===
+  iter 0: eta_max=0.000, mu_range=[1.000,1.000], beta=1.1615
+  iter 1: eta_max=1.162, mu_range=[1.000,3.195], beta=-1.2786
+  iter 2: eta_max=1.279, mu_range=[0.278,1.000], beta=13.4793
+  iter 3: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 4: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 5: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 6: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 7: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 8: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 9: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 10: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 11: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 12: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 13: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 14: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 15: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 16: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 17: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 18: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 19: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 20: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 21: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 22: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 23: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 24: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 25: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+  iter 26: eta_max=1.405, mu_range=[0.245,1.000], beta=15.8810
+  iter 27: eta_max=10.000, mu_range=[1.000,22026.466], beta=5.9212
+  iter 28: eta_max=5.921, mu_range=[1.000,372.877], beta=1.8563
+  iter 29: eta_max=1.856, mu_range=[1.000,6.400], beta=-1.4045
+
+最终 β = -1.4045, 真实 = 0.2550, 偏差 = -650.8%

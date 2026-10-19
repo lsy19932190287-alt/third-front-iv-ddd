@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{机制 H2: 厂办技校 / 子弟校人力资本溢出 (全样本三重交互)}
+\label{tab:h2}
+\begin{tabular}{lcc}
+\hline\hline
+变量 & 系数 & 标准误 \\
+\hline
+$\mathrm{Exit}\times\mathrm{Post}$ (主效应 $\hat{\beta}_0$) & \textbf{0.2441}$^{***}$ & (0.0308) \\
+$\mathrm{Exit}\times\mathrm{Post}\times\mathrm{has\_tech}$ ($\hat{\beta}_{\mathrm{tech}}$) & \textbf{0.3778}$^{***}$ & (0.1210) \\
+$\mathrm{HasTF}\times\mathrm{Post}$ (控制) & -0.0148 & (0.0210) \\
+\hline
+【技校组 边际效应】 $= \hat{\beta}_0 + \hat{\beta}_{\mathrm{tech}}$ & \textbf{0.6219}$^{***}$ \\
+【非技校组 边际效应】 $= \hat{\beta}_0$ & \textbf{0.2441}$^{***}$ \\
+\hline
+$N$ & \multicolumn{2}{c}{246,240} \\
+$D_{cjt}\times\mathrm{Post}\times\mathrm{Tech}$ 非零样本 & \multicolumn{2}{c}{416} \\
+\hline\hline
+\end{tabular}
+\begin{flushleft}\footnotesize
+\textit{Notes:} 全样本 (无子样本切分!) 三重交互模型: $y^{\sim}_{cjt}=\beta_0 \cdot D\times\mathrm{Post}+\beta_{\mathrm{tech}}\cdot D\times\mathrm{Post}\times\mathrm{Tech}+\beta_{\mathrm{HasTF}}\cdot\mathrm{HasTF}\times\mathrm{Post}+\mathrm{FE}+\varepsilon$。\textbf{H2 验证}: 要求 $\hat{\beta}_{\mathrm{tech}}>0$ 且显著, 即建有厂办技校 / 子弟校的三线企业 (46 家), 撤并后对县域-行业民营经济的孵化效应大于未建组 (46 家)。
+\end{flushleft}
+\end{table}

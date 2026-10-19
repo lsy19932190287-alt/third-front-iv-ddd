@@ -1,0 +1,20 @@
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+========================================================================
+[SINGLE-REP SANITY CHECK v8 — HasTF两步法 + 线性 HDFE + 2SLS IV-DDD]
+========================================================================
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.445, Endogeneity ρ = 0.50
+
+[DGP内禀]
+  真 β_PPML = 0.2550
+  HasTF稀疏度 = 0.143
+  Exit撤并率 (HasTF=1内) = 0.445
+  Corr(Z_cj, Exit_cj | HasTF=1) = 0.229  (IV 相关性)
+
+[估计量结果] (单次仿真, N=239,400, ~6.7s)
+Estimator                        beta         SE        N 备注                  
+----------------------------------------------------------------------------
+twfe_ihs_hdfe                  0.2739     0.0206  239,400                     
+twfe_lpm_hdfe                  0.0073     0.0120  239,400                     
+iv_ddd_2sls                    0.4546     3.7119  239,400 F = 3978.0          
+iv_ddd_linearmodels               nan        nan        0                     

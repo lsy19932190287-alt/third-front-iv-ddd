@@ -1,0 +1,19 @@
+{
+  "rows": 246240,
+  "C": 216,
+  "J": 30,
+  "T": 38,
+  "Y_zero_rate": 0.20658300844704353,
+  "Y_mean": 6.637329434697856,
+  "HasTF_density": 0.1087962962962963,
+  "HasTF_count": 26790,
+  "Exit_density": 0.05123456790123457,
+  "D_Post_count": 10624,
+  "tech_density": 0.004629629629629629,
+  "gpt_density": 0.0035493827160493828,
+  "true_beta_0": 0.12,
+  "true_beta_tech": 0.14,
+  "true_beta_gpt": 0.45,
+  "Z1_Z2_corr_in_TF": 0.6359136564533773,
+  "corr_D_post_Z1_post": 0.2332359401404254
+}

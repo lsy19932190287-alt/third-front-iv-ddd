@@ -1,0 +1,59 @@
+F:\���߽���\sim\sim_estimators.py:60: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\���߽���\sim\sim_estimators.py:60: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+OLS β (起点) = 1.1615
+真实 PPML β = 0.2550
+差距 = 0.9065
+
+直接 ln(E[Y_treat]/E[Y_ctrl]) = 0.2443
+
+=== 朴素 PPML (无 FE, 仅截距) ===
+Pre-treatment  mean(Y) = 3.5724, E[Y]=exp(μ)
+Post-treatment mean(Y) = 5.2489
+log ratio = 0.3848
+
+=== Newton-Raphson 无 damping ===
+  iter 0: β = +0.0000, step = +1.1615, max|step| = 1.1615
+  iter 1: β = +1.1615, step = -1.0332, max|step| = 1.0332
+  iter 2: β = +0.1283, step = +1.0246, max|step| = 1.0246
+  iter 3: β = +1.1529, step = -1.0059, max|step| = 1.0059
+  iter 4: β = +0.1470, step = +1.0031, max|step| = 1.0031
+  iter 5: β = +1.1501, step = -0.9971, max|step| = 0.9971
+  iter 6: β = +0.1530, step = +0.9962, max|step| = 0.9962
+  iter 7: β = +1.1492, step = -0.9941, max|step| = 0.9941
+  iter 8: β = +0.1551, step = +0.9937, max|step| = 0.9937
+  iter 9: β = +1.1488, step = -0.9930, max|step| = 0.9930
+  iter 10: β = +0.1558, step = +0.9929, max|step| = 0.9929
+  iter 11: β = +1.1487, step = -0.9926, max|step| = 0.9926
+  iter 12: β = +0.1561, step = +0.9925, max|step| = 0.9925
+  iter 13: β = +1.1487, step = -0.9924, max|step| = 0.9924
+  iter 14: β = +0.1562, step = +0.9924, max|step| = 0.9924
+  iter 15: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 16: β = +0.1562, step = +0.9924, max|step| = 0.9924
+  iter 17: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 18: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 19: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 20: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 21: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 22: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 23: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 24: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 25: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 26: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 27: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 28: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 29: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 30: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 31: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 32: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 33: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 34: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 35: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 36: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 37: β = +1.1486, step = -0.9924, max|step| = 0.9924
+  iter 38: β = +0.1563, step = +0.9924, max|step| = 0.9924
+  iter 39: β = +1.1486, step = -0.9924, max|step| = 0.9924
+
+最终 β = 0.1563
+真实 β = 0.2550

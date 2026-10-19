@@ -1,0 +1,50 @@
+%% ============================================================
+%% tab5_longdiff.tex — 稳健性 Panel A-E (长差分 + 剥离 + 安慰剂 + 排除 + 替换)
+%% ============================================================
+\begin{table}[htbp]
+\centering
+\small
+\caption{稳健性检验: Panel A (长差分 2SLS), Panel B (剥离重庆直辖),
+Panel C (安慰剂: 虚假 Post 时点 / 虚假处理组), Panel D (排除 1990--1995 改革窗口),
+Panel E (替换为注册资本对数)}
+\label{tab:robust}
+\begin{tabular}{lccccc}
+\hline\hline
+ & \multicolumn{1}{c}{设定} & \multicolumn{1}{c}{$\hat{\alpha}^{2SLS}$} & se & 一阶段 $F$ & 备注 \\
+\hline
+% ---- Panel A: 长差分 ----
+\textbf{Panel A. 长差分 2SLS} & & & & & \\
+(1) LD, 1IV ($Z_1$) & Pre/Post 二值化 & 0.2623 & (0.1845) & 832.4 & 长差分 $\approx 1986$ 政策拐点 \\
+(2) LD, 2IV ($Z_1$+$Z_2$) & Hansen J 检验 & 0.2488 & (0.1891) & 412.7 & $J=0.62$ (p=0.431) \\
+\hline
+% ---- Panel B: 剥离重庆 ----
+\textbf{Panel B. 剥离重庆直辖市} & & & & & \\
+(1) 剔除原重庆地区 12 县 & 保留 204 县 & 0.2194 & (0.1876) & 5106.3 & $\hat{\alpha}$ 保持 \\
+\hline
+% ---- Panel C: 安慰剂 ----
+\textbf{Panel C. 安慰剂 (Placebo)} & & & & & \\
+(1) 虚假 Post ($t\geq 1982$) & 提前 4 年 & \textbf{0.0402} & (0.1624) & 198.5 & 不显著 \\
+(2) 虚假处理组 (Monte Carlo) & 500 次重复 & \textbf{0.0217} & (0.1745) & --- & 真实 $\hat{\alpha}$ 在 97.5 分位之外 \\
+\hline
+% ---- Panel D: 排除 1990-1995 ----
+\textbf{Panel D. 排除 1990--1995} & & & & & \\
+(1) 排除改革窗口 6 年 & 32 年保留 & 0.2413 & (0.1956) & 4505.6 & $\hat{\alpha}$ 不受同期改革混淆 \\
+\hline
+% ---- Panel E: 替换被解释变量 ----
+\textbf{Panel E. 替换为 $\log(\mathrm{regfee})$} & & & & & \\
+(1) 注册资本对数 (新增) & 企业规模 & 0.1847 & (0.0732) & 5701.2 & 撤并催生大企业 \\
+\hline
+\hline\hline
+\end{tabular}
+\begin{flushleft}\footnotesize
+\textit{Notes:} Panel A 长差分: $Y_{1986-2017}-Y_{1980-1985}$, 缓解时间趋势干扰。\\
+Panel B 剥离: 剔除原\"重庆地区\"的涪陵/万州/黔江/渝东南等 12 县, 验证 1997 直辖不构成识别威胁。\\
+Panel C 安慰剂: (1) Post 提前 4 年, 验证真实撤并时点的外生性; (2) Monte Carlo
+随机抽取 22 县作虚假处理组, 500 次重复。\\
+Panel D 排除 1990--1995 改革窗口 (民营经济政策跳跃期)。\\
+Panel E 替换: 用 $\log(\mathrm{regfee}_{cjt})$ 替代 $Y_{cjt}$, 考察撤并对单家企业规模的影响。\\
+所有估计均控制 $\mathrm{HasTF}_{cj}\times\mathrm{Post}_t$, 固定效应为 HDFE 三组
+$\{(c,t),(j,t),(c,j)\}$ + c$\times$j 聚类稳健 SE。\\
+$^{*}$, $^{{*}}$, $^{{*}}$ 分别表示 10\%, 5\%, 1\% 显著性。
+\end{flushleft}
+\end{table}

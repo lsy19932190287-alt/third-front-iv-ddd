@@ -1,0 +1,20 @@
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+F:\ÈýÏß½¨Éè\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 0 and abs(prev_norm - norm) / prev_norm < tol:
+======================================================================
+[SINGLE-REP SANITY CHECK v7 â€” linearmodels]
+======================================================================
+
+True PPML Î² = 0.2550
+
+Estimator                  beta       SE        N
+--------------------------------------------------
+twfe_ihs_hdfe            0.2260   0.0109  239,400
+twfe_ihs_panel           0.2197   0.0166  239,400
+twfe_lpm_hdfe            0.0378   0.0071  239,400
+twfe_lpm_panel           0.0370   0.0034  239,400
+ppml_naive               0.3848   0.0030  239,400
+iv_ddd_panel                nan      nan        0
+
+Single rep time: 8.11s

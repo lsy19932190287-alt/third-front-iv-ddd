@@ -1,0 +1,144 @@
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:51: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:

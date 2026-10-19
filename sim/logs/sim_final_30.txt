@@ -1,0 +1,116 @@
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+F:\三线建设\sim\sim_estimators.py:59: RuntimeWarning: invalid value encountered in scalar divide
+  if prev_norm > 1e-15 and abs(prev_norm - norm) / prev_norm < tol:
+======================================================================
+Monte Carlo Simulation v3 — 三线建设 Exit-DID
+  Reps: 30  Base seed: 20261019  Endog ρ: 0.5
+  DGP β_PPML = 0.255
+======================================================================
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.445, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.487, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.462, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.452, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.460, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.436, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.470, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.426, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.454, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.430, Endogeneity ρ = 0.50
+  [10/30] elapsed: 83s, ETA: 166s
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.449, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.467, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.429, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.432, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.442, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.455, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.481, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.385, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.460, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.469, Endogeneity ρ = 0.50
+  [20/30] elapsed: 157s, ETA: 78s
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.442, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.429, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.475, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.446, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.449, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.456, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.454, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.441, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.459, Endogeneity ρ = 0.50
+  [Step3] 目标撤并率 = 0.400, 实际撤并率(HasTF=1 内) = 0.443, Endogeneity ρ = 0.50
+  [30/30] elapsed: 240s, ETA: 0s
+
+Total time: 240.5s (8.02s/rep)
+
+======================================================================
+SIMULATION METRICS (v3 — HasTF两步法 + 线性HDFE+2SLS)
+======================================================================
+Estimator              True β       β̄     Bias     RMSE    Power      Cov
+----------------------------------------------------------------------
+twfe_ihs_hdfe          0.2000   0.2882  +0.0882   0.0904    1.000    0.000
+twfe_lpm_hdfe          0.0120   0.0176  +0.0056   0.0108    0.333    0.967
+iv_ddd_2sls            0.2550   1.4851  +1.2301   3.6170    0.133    0.900
+
+[First-stage F stat] mean = 4612.1, min = 1014.5, max = 9162.0, all > 10? True
+[HasTF 实际密度] mean = 0.150
+[撤并率(HasTF=1内)] mean = 0.449, std = 0.019
+
+✓ Results saved to tables\mc_sim_results.json
+✓ LaTeX table v3 saved to tables\mc_sim_table_v3.tex

@@ -1,0 +1,57 @@
+三线企业种子库验证报告 — B0_third_front_seed_db.csv
+======================================================================
+总企业数: 92
+
+按省份:
+       n  n_reloc  n_exit  n_keep
+prov                             
+四川    32       11       4      17
+贵州    60       20       3      37
+
+按部委:
+ministry_1980
+四机部     22
+五机部     17
+航天部     10
+化工部      9
+冶金部      9
+煤炭部      9
+三机部      8
+核工业部     3
+水电部      3
+六机部      1
+机械部      1
+
+按行业 (cic2_code):
+cic2_code
+9      9
+26    11
+32     4
+33     5
+35    13
+37    22
+40    28
+
+按调整类型:
+adjust_type
+1    54
+2    31
+3     7
+
+按位置 (tunnel_type):
+tunnel_type
+山沟    92
+
+H2 has_tech_school:
+has_tech_school
+1    46
+0    46
+
+H3 is_gpt_sector:
+is_gpt_sector
+0    51
+1    41
+
+微观地理 IV 字段:
+  elev_diff_m: mean=603.2, std=203.4
+  rail_slope_deg: mean=0.1909, std=0.0541

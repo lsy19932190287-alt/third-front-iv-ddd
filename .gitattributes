@@ -1,0 +1,12 @@
+# Auto normalize line endings: CRLF (Windows) -> LF in repo, restore on checkout
+*.txt       text eol=lf
+*.md        text eol=lf
+*.csv       text eol=lf
+*.tsv       text eol=lf
+*.json      text eol=lf
+*.tex       text eol=lf
+*.bib       text eol=lf
+*.py        text eol=lf
+*.do        text eol=lf
+*.r         text eol=lf
+*.sh        text eol=lf
